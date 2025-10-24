@@ -44,8 +44,8 @@ Para ejecutar este proyecto, necesitarás tener instalado:
 1.  **Clona o descarga el repositorio:**
     (Si es un repositorio git)
     ```bash
-    git clone https://[URL_DE_TU_REPOSITORIO].git
-    cd [NOMBRE_DEL_DIRECTORIO]
+    git clone https://codersamx/Calculadora.git
+    cd Calculadora
     ```
     (Si solo tienes el archivo, simplemente colócalo en un directorio y navega hasta él)
 
